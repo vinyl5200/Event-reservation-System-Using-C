@@ -11,3 +11,10 @@ This project implements a concurrent event reservation system using POSIX thread
 ```bash
 git clone https://github.com/vinyl5200/Systems-Lab.git
 cd Systems-Lab
+```
+###Run the Code
+
+```bash
+gcc event-reservation.c
+./a.out
+```
